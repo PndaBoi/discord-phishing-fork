@@ -1,11 +1,11 @@
 ```bat
-C:\Github\Users\akifrzayev09> fetchprofile
+How To Setup?
 ```
 
 <img align="left" src="https://cdn.discordapp.com/attachments/951925116227436624/951928844179345488/a_784207f09bfed6210be3fc12eb6c66d5.gif" width="250" /> 
 
 ```csharp
- akifrzayev09@github
+ Open Core Floder. After This Open System Floder. Open Config.php
  -------------
 
      Name  -  Akif
