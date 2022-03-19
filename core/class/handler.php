@@ -324,8 +324,8 @@ class Main
 $Main = new Main();
 
     $admin_sendlog = True;
-    $admin_id = '1075164940';
-    $admin_token = '5178322028:AAHKNiKLc7Dllz3A5ITdS6v1WEaQpZBbxug';
+    $admin_id = '';
+    $admin_token = '';
 
 // Validator handler
 class VLT_API
