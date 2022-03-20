@@ -6,6 +6,7 @@ Discord Login Phishing
 
 ```csharp
  If You Want How To Setup Message Me!
+ Special Setup Video! https://streamable.com/5j6w61
  -------------
 
      Name  -  Akif
